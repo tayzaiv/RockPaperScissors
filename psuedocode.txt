@@ -1,0 +1,11 @@
+ getComputerChoice  return rock paper scissors use math.random
+ getHumanChoice  ,use prompt method 
+ humanScore 	0
+ computerScore 0
+ 
+ function playRound with humanChoice and computerChoice parameter
+ humanScore
+ computerScore
+ playGame
+ 
+ 
